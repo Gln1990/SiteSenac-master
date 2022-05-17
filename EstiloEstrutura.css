@@ -1,0 +1,49 @@
+.logocentro {
+    display: block;
+    margin: 0 auto;
+   }
+   h1,h2 {
+    color: rgba(255, 102, 0, 0.664);
+    text-align: center;
+   }
+   ul {
+    list-style-type: none;
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    color: rgb(240, 67, 96);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,185,229,0.5158438375350141) 47%, rgba(0,212,255,1) 100%);
+    border-radius: 10px;
+    
+
+}
+a {
+    color: rgb(34, 10, 14);
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    
+}
+.imagensEstrutura{
+    
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 700px;
+    margin-right: 50px;
+    max-width: 1000px;
+    min-height: 350px;
+    width: auto;
+    height: auto;
+}
+
+p {
+    text-align: center;
+    color: rgb(240, 67, 96);
+    
+}
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,185,229,0.5158438375350141) 47%, rgba(0,212,255,1) 100%);
+}

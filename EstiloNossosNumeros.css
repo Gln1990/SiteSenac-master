@@ -1,0 +1,170 @@
+.logocentro {
+    display: block;
+    margin: 0 auto;
+   
+
+}
+h1 {
+        color: rgba(255, 102, 0, 0.664);
+        text-align: center;
+        text-shadow: 4px 4px 10px yellow;
+} 
+
+.NossosNumeros {
+    background: rgb(58,163,180);
+    background: linear-gradient(90deg, rgba(58,163,180,1) 6%, rgba(45,253,29,1) 100%, rgba(252,176,69,1) 100%);
+    color: rgba(27, 25, 23, 0.664);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top: 10px;
+    border-left: 10px;
+    border-bottom: 10px;
+    border-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 4px 4px 10px yellow;
+    
+    width: 80%;
+    border-style: solid;
+    }
+    .NossosNumeros tr {
+        font-family: 'Courier New', Courier, monospace;
+        color: rgba(27, 25, 23, 0.664);
+        width: 80%;
+        border-style: solid;
+    
+    
+    }
+
+    .NossosNumeros tr td {
+        border-top: 10px;
+        border-left: 10px;
+        border-bottom: 10px;
+        border-right: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-shadow: 4px 4px 10px rgb(245, 245, 236);
+        
+        width: 80%;
+        border-style: solid; 
+    }
+   body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,185,229,0.5158438375350141) 47%, rgba(0,212,255,1) 100%);
+}
+label {
+    
+    color: rgba(12, 8, 5, 0.664);
+    margin-top: 10px;
+    margin-bottom: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-top: 10px;
+    border-left: 10px;
+    border-bottom: 10px;
+    border-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 4px 4px 10px yellow;
+    border-radius: 45px;
+    width: 80%;   
+    display: block;
+    margin: 0 auto;
+}
+
+input {
+    
+    color: rgba(29, 26, 23, 0.664);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top: 10px;
+    border-left: 10px;
+    border-bottom: 10px;
+    border-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 4px 4px 10px yellow;
+    border-radius: 45px;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+form {
+    
+    color: rgba(27, 25, 23, 0.664);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top: 10px;
+    border-left: 10px;
+    border-bottom: 10px;
+    border-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 4px 4px 10px yellow;
+    border-radius: 45px;
+        width: 80%;
+        display: block;
+    margin: 0 auto;
+        
+        
+        
+}
+select {
+    
+    color: rgba(27, 25, 23, 0.664);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top: 10px;
+    border-left: 10px;
+    border-bottom: 10px;
+    border-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 4px 4px 10px yellow;
+    border-radius: 45px;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+textarea {
+    
+    color: rgba(27, 25, 23, 0.664);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top: 10px;
+    border-left: 10px;
+    border-bottom: 10px;
+    border-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 4px 4px 10px yellow;
+    border-radius: 45px;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
